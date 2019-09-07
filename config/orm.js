@@ -66,7 +66,8 @@ const orm = {
             callback(results);
         });
     }
-    // , delete: function (table, condition, cb) {
+    // , 
+    // delete: function (table, condition, cb) {
     //     var queryString = "DELETE FROM " + table;
     //     queryString += " WHERE ";
     //     queryString += condition;
